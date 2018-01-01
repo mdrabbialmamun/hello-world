@@ -1,3 +1,10 @@
+/*
+            Simple calculating program is
+                written by Md. Rabbi Al Mamun :)
+
+*/
+
+
 #include <stdio.h>
 int main()
 {
